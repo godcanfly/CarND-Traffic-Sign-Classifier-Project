@@ -1,9 +1,9 @@
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-Here is project write-up:[project summary pdf](project_writeup.pdf). 
-Here is html format of code and result:[HTML output](Traffic_Sign_Classifier.html). 
-Here is link to the ipynb:[Ipython notebook](Traffic_Sign_Classifier.ipynb). 
+* Here is project write-up:[project summary pdf](project_writeup.pdf). 
+* Here is html format of code and result:[HTML output](Traffic_Sign_Classifier.html). 
+* Here is link to the ipynb:[Ipython notebook](Traffic_Sign_Classifier.ipynb). 
 
 
 Overview
